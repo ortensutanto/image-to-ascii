@@ -15,6 +15,8 @@ Simple C program that converts images into ASCII on the terminal
 - `-k` amount of clusters for color clustering. Defaults to 5. The lower the faster
 - `-c` whether the ASCII text will be colored or not. 0 is colored, 1 is non colored. Defaults to 0
 
+### Original Image
+![original image](media/furina.jpg)
 ### Colored Type 1
 ![colored type 1](media/colored1.png)
 ### Colored Type 2
